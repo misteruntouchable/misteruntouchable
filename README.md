@@ -5,8 +5,9 @@
 
 <h2>📺 Certifications</h2>
 
-[CCNA]
-[CompTia Sec Plus 701]
+[CCNA](https://www.credly.com/badges/5443efb6-fd6f-4f91-bc4b-885e1d9e0a48/public_url)
+
+[CompTia Sec Plus 701](https://www.credly.com/badges/ae2106da-2cba-4369-9094-e2fcd3e37a55/public_url)
 
 
 <h2>📺 Popular YouTube Videos</h2>
