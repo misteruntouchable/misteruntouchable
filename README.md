@@ -1,7 +1,7 @@
 <h1>Hi, I'm Cohen! <br/><a href="https://github.com/joshmadakor1"><a href="https://www.linkedin.com/in/cohenpdavis/">Network Engineer</a>
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- [Active Directory Homelab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Active Directory Homelab](https://github.com/misteruntouchable/activedirectorylab/tree/main)
 
 <h2>📺 Certifications</h2>
 
