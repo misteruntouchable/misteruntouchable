@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - [Active Directory Homelab](https://github.com/misteruntouchable/activedirectorylab/tree/main)
-
+- [SOCLabintheCloudusingAzure](https://github.com/misteruntouchable/SOCLabintheCloudusingAzure/tree/main)
 <h2>📺 Certifications</h2>
 
 [CCNA](https://www.credly.com/badges/5443efb6-fd6f-4f91-bc4b-885e1d9e0a48/public_url)
