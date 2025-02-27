@@ -5,6 +5,8 @@
 - [SOCLabintheCloudusingAzure](https://github.com/misteruntouchable/SOCLabintheCloudusingAzure/tree/main)
 - [VulnerabiltyManagementLab](https://github.com/misteruntouchable/VulnerabiltyManagementProject/tree/main)
 - [RESTAPIProject](https://github.com/misteruntouchable/RestAPITutorial/tree/main)
+
+- [GroupPolicyLab](https://github.com/misteruntouchable/Group-Policy-Management-Homelab)
   
 <h2>📺 Certifications</h2>
 
