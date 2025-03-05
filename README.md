@@ -9,6 +9,8 @@
 - [GroupPolicyLab](https://github.com/misteruntouchable/Group-Policy-Management-Homelab)
 
 - [CommmonUserIssuesResovledbyActiveDirectoryLab](https://github.com/misteruntouchable/Common-User-Issues-Resolved-by-Active-Directory)
+
+- [FileSharingHomeLab](https://github.com/misteruntouchable/FileSharingHomelab)
   
 <h2>📺 Certifications</h2>
 
