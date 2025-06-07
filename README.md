@@ -12,6 +12,7 @@
 - [CommmonUserIssuesResovledbyActiveDirectoryLab](https://github.com/misteruntouchable/Common-User-Issues-Resolved-by-Active-Directory)
 
 - [FileSharingHomeLab](https://github.com/misteruntouchable/FileSharingHomelab)
+- [SpiceWorksTicketingLab](https://github.com/misteruntouchable/SpiceWorksTicketingLab)
   
 <h2>📺 Certifications</h2>
 
